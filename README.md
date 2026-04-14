@@ -1,16 +1,152 @@
-## Hi there 👋
+![Swastik242](https://user-images.githubusercontent.com/25181517/117185899-9ccba680-adda-11eb-9003-7c25da391b99.PNG)
+<h1 align="left"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="50"
+         width="50" /> I'm Vibhanshu!</h1>
+         <img src="https://komarev.com/ghpvc/?username=CODEBRAKERBOYY&color=brightgreen" alt="" align="right" />
 
-<!--
-**vibhanshu07ashu-star/vibhanshu07ashu-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Welcome to My GitHub Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 I'm currently studying as 3rd year CSE student at [Psit Engineering College](https://www.psit.ac.in// "visit my college website").
+- 🤩 I'm down into projects and collaborations.
+
+## 💻 I'm familiar with the following tech stacks:
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Swastik2425?tab=repositories&q=&type=&language=c&sort=" target="_blank" title="View my C Programming repo(s)"> 
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="c" width="40" height="40"/> 
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CODEBRAKERBOYY?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank" title="View my C++ Programming repo(s)"> 
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="50" height="50"/> 
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CODEBRAKERBOYY/" target="_blank" title="View my repos">
+          <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CODEBRAKERBOYY/" target="_blank" title="View my repos">
+          <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="50" height="50"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CODEBRAKERBOYY/" target="_blank" title="View my repos">
+          <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="markdown" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CODEBRAKERBOYY?tab=repositories&q=&type=&language=shell&sort=" target="_blank" title="View my Shell Scripting repo(s)">
+          <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="bash" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CODEBRAKERBOYY?tab=repositories&q=&type=&language=java&sort=" target="_blank" title="View my Java repo(s)">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="50" height="50"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CODEBRAKERBOYY?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my R programming repo(s)">
+          <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" alt="r" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my Docker repo(s)">
+          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="r-studio" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="" target="_blank" title="View my Python repo(s)">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="" target="_blank" title="View my Sql repo (s)">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65"
+        </a>
+      </td>
+      <td>
+          <a href="https://github.com/CODEBRAKERBOYY?tab=repositories&q=&type=&language=java&sort=" target="_blank" title="View my django(s)">
+          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="50" height="50"/>
+        </a>
+      </td>
+      <td>
+        <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="vscode" width="40" height="40"/>
+          <td>
+        <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my php repo(s)">
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" alt="r-studio" width="40" height="40"/>
+        </a>
+      </td>
+         <td>
+        <a href="https://github.com/CODEBRAKERBOY?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my php repo(s)">
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg" alt="r-studio" width="40" height="40"/>
+        </a>
+      </td>        
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+## 🌐 Connect with me through:
+
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+          <a href="https://www.linkedin.com/in/swastik2425/" target="_blank" title="Visit my Linkedin">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>
+          </a>
+      </td>
+      <td>
+          <a href="https://x.com/Swastik2425/" target="_blank" title="Visit my twitter">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="40" height="40"/>
+          </a>
+      </td>
+      <td>
+         <a href="https://discord.com/channels/@me" target="_blank" title="Join My Discord Channel">
+          <img src="https://www.svgrepo.com/show/452188/discord.svg" alt="discord" width="50" height="50" />
+         </a>
+      </td>
+      <td>
+          <a href="https://www.instagram.com/its_swastik24/" target="_blank" title="Visit my Instagram">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/>
+          </a>
+      </td>
+  </table>
+</div>
+
+## 📈 My GitHub stats:
+
+| <img src="https://github-readme-stats.vercel.app/api?username=CODEBRAKERBOYY&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODEBRAKERBOYY&theme=blueberry_duo"/> |
+| --- | ---- |
+
+![](https://github-profile-trophy.vercel.app/?username=CODEBRAKERBOYY&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) |
+| --- |
+[![Swastik2425]([[https://github-readme-activity-graph.vercel.app/graph?username=CODEBRAKERBOYY&bg_color=000000&color=0284c7&line=2563eb&point=0ea5e9&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=CODEBRAKERBOYY&bg_color=000000&color=0284c7&line=2563eb&point=0ea5e9&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app/graph?username=CODEBRAKERBOYY&bg_color=000000&color=0284c7&line=2563eb&point=0ea5e9&area=true&hide_border=true))](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🧿 Hacktober badges:
+
+[ ![@CODEBRAKERBOYY's Holopin board](https://holopin.me/CODEBRAKERBOY) ](https://holopin.io/@CODEBRAKERBOY) 
+
+
+<!-- Snake Game -->
+<div align ="center">
+  <img src="https://raw.githubusercontent.com/CODEBRAKERBOYY/CODEBRAKERBOYY/output/github-snake-dark.svg" alt="ERROR:404 XoX" title="Ohh No, it's eating my contributions from the graph" >
+</div> 
+
+
+
