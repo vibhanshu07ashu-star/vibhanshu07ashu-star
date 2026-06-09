@@ -105,22 +105,22 @@
   <table>
     <tr>
       <td>
-          <a href="https://www.linkedin.com/in/swastik2425/" target="_blank" title="Visit my Linkedin">
+          <a href="https://www.linkedin.com/in/vibhanshu-srivastava-04a7b3380/" target="_blank" title="Visit my Linkedin">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>
           </a>
       </td>
       <td>
-          <a href="https://x.com/Swastik2425/" target="_blank" title="Visit my twitter">
+          <a href="https://x.com/Vibhans81860441" target="_blank" title="Visit my twitter">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="40" height="40"/>
           </a>
       </td>
       <td>
-         <a href="https://discord.com/channels/@me" target="_blank" title="Join My Discord Channel">
+         <a href="https://discord.com/channels/@me/1215481526867988495" target="_blank" title="Join My Discord Channel">
           <img src="https://www.svgrepo.com/show/452188/discord.svg" alt="discord" width="50" height="50" />
          </a>
       </td>
       <td>
-          <a href="https://www.instagram.com/its_swastik24/" target="_blank" title="Visit my Instagram">
+          <a href="https://www.instagram.com/vibhanshu_srivastav/" target="_blank" title="Visit my Instagram">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/>
           </a>
       </td>
